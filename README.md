@@ -1,16 +1,41 @@
-## Hi there 👋
+````md
+<div align="center">
 
+# Saiful Alam Masud
 
-**masud1040/masud1040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | ML/DL Learner
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;Next.js+%7C+TypeScript;Machine+Learning+Enthusiast;Deep+Learning+Learner" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
 
+---
+
+## 👨‍💻 About Me
+
+```yaml
+Name       : Saiful Alam Masud
+Location   : Chittagong, Bangladesh
+Role       : Frontend Developer & ML/DL Learner
+Stack      : Next.js · TypeScript · TensorFlow · PyTorch
+Email      : saifulalammasud8@gmail.com
+Portfolio  : masud.ami.bd
+````
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,tensorflow,pytorch" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://masud.ami.bd">Portfolio</a> •
+<a href="mailto:saifulalammasud8@gmail.com">Email</a>
+</p>
+```
