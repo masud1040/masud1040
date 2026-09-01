@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         PREMIUM HEADER                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0f172a,70:1e3a8a,100:38bdf8&text=Saiful%20Alam%20Masud&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20ML%2FDL%20Learner&descAlignY=58&descSize=20"/>
 
 <br/>
@@ -11,8 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Frontend+Developer;Machine+Learning+Learner;Deep+Learning+Enthusiast;Next.js+%7C+TypeScript+Developer;Always+Learning+%26+Building"/>
 
 <br/><br/>
-
-<!-- PROFILE BADGES -->
 
 <a href="https://github.com/masud1040">
 <img src="https://komarev.com/ghpvc/?username=masud1040&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"/>
@@ -32,70 +26,47 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           ABOUT ME                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 👨‍💻 About Me
 
-<p align="center">
+<div align="center">
 
-<span style="color:#38BDF8;">▸</span>
-<strong>Name</strong> : Saiful Alam Masud
-<br/>
+### <span style="color:#38BDF8;">▸</span> Saiful Alam Masud
 
-<span style="color:#38BDF8;">▸</span>
-<strong>Location</strong> : Chittagong, Bangladesh
-<br/>
-
-<span style="color:#38BDF8;">▸</span>
-<strong>Role</strong> : Frontend Developer & ML/DL Learner
-<br/>
-
-<span style="color:#38BDF8;">▸</span>
-<strong>Stack</strong> : Next.js · TypeScript · React · Python
-<br/>
-
-<span style="color:#38BDF8;">▸</span>
-<strong>ML / DL</strong> : Scikit-Learn · TensorFlow · PyTorch
-<br/>
-
-<span style="color:#38BDF8;">▸</span>
-<strong>Data</strong> : NumPy · Pandas · Seaborn
-<br/>
-
-<span style="color:#38BDF8;">▸</span>
-<strong>Email</strong> :
-<a href="mailto:saifulalammasud8@gmail.com">
-saifulalammasud8@gmail.com
-</a>
-<br/>
-
-<span style="color:#38BDF8;">▸</span>
-<strong>Portfolio</strong> :
-<a href="https://masud.ami.bd">
-masud.ami.bd
-</a>
-
+<p>
+Frontend Developer & ML/DL Learner
 </p>
+
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turning+Ideas+Into+Real+Projects"/>
+| | |
+|---|---|
+| <span style="color:#38BDF8;">▸</span> **Name** | Saiful Alam Masud |
+| <span style="color:#38BDF8;">▸</span> **Location** | Chittagong, Bangladesh 🇧🇩 |
+| <span style="color:#38BDF8;">▸</span> **Role** | Frontend Developer & ML/DL Learner |
+| <span style="color:#38BDF8;">▸</span> **Frontend** | Next.js · React · TypeScript · Tailwind CSS |
+| <span style="color:#38BDF8;">▸</span> **Machine Learning** | Python · Scikit-Learn |
+| <span style="color:#38BDF8;">▸</span> **Deep Learning** | TensorFlow · PyTorch |
+| <span style="color:#38BDF8;">▸</span> **Data Science** | NumPy · Pandas · Seaborn |
+| <span style="color:#38BDF8;">▸</span> **Email** | [saifulalammasud8@gmail.com](mailto:saifulalammasud8@gmail.com) |
+| <span style="color:#38BDF8;">▸</span> **Portfolio** | [masud.ami.bd](https://masud.ami.bd) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turning+Ideas+Into+Real+Projects"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECHNOLOGY STACK                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🛠️ Technology Stack
-
-<br/>
 
 ### 💻 Programming Languages
 
@@ -153,84 +124,80 @@ masud.ami.bd
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        CURRENT FOCUS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🎯 What I'm Working On
 
 <div align="center">
 
-### 🌐 Modern Web Development
+<table>
+<tr>
 
-Building clean, responsive and high-performance web applications using
-**Next.js, React, TypeScript and Tailwind CSS.**
+<td width="33%" align="center" valign="top">
 
-<br/>
+<h3>🌐 Modern Web</h3>
 
-### 🤖 Machine Learning
+<p>
+Building clean, responsive and high-performance web applications using Next.js, React and TypeScript.
+</p>
 
-Exploring data analysis, feature engineering, machine learning algorithms
-and real-world predictive models using **Python and Scikit-Learn.**
+</td>
 
-<br/>
+<td width="33%" align="center" valign="top">
 
-### 🧠 Deep Learning
+<h3>🤖 Machine Learning</h3>
 
-Learning neural networks, computer vision and intelligent applications
-with **TensorFlow and PyTorch.**
+<p>
+Exploring data analysis, feature engineering, machine learning algorithms and real-world predictive models.
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🧠 Deep Learning</h3>
+
+<p>
+Learning neural networks, computer vision and intelligent applications using TensorFlow and PyTorch.
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB ANALYTICS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- GitHub Stats -->
-
 <a href="https://github.com/masud1040">
 <img
 src="https://github-readme-stats.vercel.app/api?username=masud1040&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8&rank_icon=github"
 width="49%"
-alt="GitHub Stats"
-/>
+alt="GitHub Stats"/>
 </a>
-
-<!-- GitHub Streak -->
 
 <a href="https://github.com/masud1040">
 <img
 src="https://streak-stats.demolab.com/?user=masud1040&hide_border=true&background=0D1117&stroke=1E3A8A&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=94A3B8"
 width="49%"
-alt="GitHub Streak"
-/>
+alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
-
-<!-- TOP LANGUAGES -->
 
 <a href="https://github.com/masud1040">
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud1040&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
 width="49%"
-alt="Top Languages"
-/>
+alt="Top Languages"/>
 </a>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB CONTRIBUTIONS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Activity
 
@@ -238,61 +205,69 @@ alt="Top Languages"
 
 <img
 src="https://raw.githubusercontent.com/masud1040/masud1040/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
+alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       DEVELOPER PHILOSOPHY                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 💡 Developer Philosophy
 
 <div align="center">
 
-**📖 Keep Learning**
+<table>
+<tr>
 
-Stay curious, read documentation, explore new technologies
-and continuously improve.
+<td width="33%" align="center">
 
-<br/><br/>
+<h3>📖 Keep Learning</h3>
 
-**🛠️ Keep Building**
+<p>
+Stay curious, read documentation and continuously explore new technologies.
+</p>
 
-Turn knowledge into real projects and transform ideas
-into useful experiences.
+</td>
 
-<br/><br/>
+<td width="33%" align="center">
 
-**🚀 Keep Improving**
+<h3>🛠️ Keep Building</h3>
 
-Solve problems, refactor code, experiment with new ideas
-and become better every day.
+<p>
+Turn knowledge into real projects and transform ideas into useful experiences.
+</p>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🚀 Keep Improving</h3>
+
+<p>
+Solve problems, refactor code, experiment and become better every day.
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         CONNECT WITH ME                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://masud.ami.bd" target="_blank">
+<a href="https://masud.ami.bd">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8"/>
 </a>
 
-<a href="https://github.com/masud1040" target="_blank">
+<a href="https://github.com/masud1040">
 <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://linkedin.com/in/saiful-alam-masud-789a3b23a" target="_blank">
+<a href="https://linkedin.com/in/saiful-alam-masud-789a3b23a">
 <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
@@ -303,16 +278,12 @@ and become better every day.
 <br/><br/>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Learning+Machine+Learning;Exploring+Deep+Learning;Improving+Problem+Solving;Turning+Ideas+Into+Projects"
-/>
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Learning+Machine+Learning;Exploring+Deep+Learning;Improving+Problem+Solving;Turning+Ideas+Into+Projects"/>
 
 <br/><br/>
 
-<!-- FOOTER -->
-
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38bdf8,50:1e3a8a,100:020617&section=footer"
-/>
+src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38bdf8,50:1e3a8a,100:020617&section=footer"/>
 
 </div>
