@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0f172a,70:1e3a8a,100:38bdf8&text=Saiful%20Alam%20Masud&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20ML%2FDL%20Learner&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0f172a,70:1e3a8a,100:38bdf8&text=Saiful%20Alam%20Masud&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20ML%2FDL%20Learner&descAlignY=58&descSize=20"/>
 
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Frontend+Developer;Machine+Learning+Learner;Deep+Learning+Enthusiast;Next.js+%7C+React+%7C+TypeScript;Python+%7C+Machine+Learning;Always+Learning+%26+Building"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=masud1040&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge"/>
 
@@ -26,33 +26,38 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-<h2>👋 Hi, I'm Saiful Alam Masud</h2>
+<td width="60%" valign="top">
+
+<h2>👋 Hello, I'm Saiful Alam Masud</h2>
 
 <p>
-I'm a <b>Frontend Developer</b> who enjoys building modern,
-responsive and user-friendly web applications.
+I'm a <b>Frontend Developer</b> passionate about creating
+modern, responsive and user-friendly web applications.
 </p>
 
 <p>
-Alongside web development, I'm exploring
-<b>Machine Learning, Deep Learning and Data Science</b>
-to expand my skills beyond the frontend.
+My primary focus is building web applications with
+<b>React, Next.js, TypeScript and modern frontend technologies.</b>
 </p>
 
 <p>
-I enjoy learning new technologies, solving problems
-and turning ideas into real-world projects.
+I'm also exploring <b>Machine Learning, Deep Learning
+and Data Science</b> with Python.
+</p>
+
+<p>
+I enjoy learning new technologies, solving problems,
+building projects and continuously improving my skills.
 </p>
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
-<h3>🚀 Current Focus</h3>
+<h2>🚀 Current Focus</h2>
 
-<p>🌐 Modern Web Development</p>
+<p>🌐 Web Development</p>
 <p>⚛️ React & Next.js</p>
 <p>📘 TypeScript</p>
 <p>🐍 Python</p>
@@ -61,6 +66,7 @@ and turning ideas into real-world projects.
 <p>📊 Data Science</p>
 
 </td>
+
 </tr>
 </table>
 
@@ -72,53 +78,47 @@ and turning ideas into real-world projects.
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
-### 🌐
+<h2>🌐</h2>
 
-<b>Web Development</b>
+<h3>Web Development</h3>
 
-<br/>
-
-Building modern web experiences
+<p>Modern & responsive web applications</p>
 
 </td>
 
 <td align="center" width="25%">
 
-### 🤖
+<h2>⚛️</h2>
 
-<b>Machine Learning</b>
+<h3>Frontend</h3>
 
-<br/>
-
-Learning intelligent systems
+<p>React, Next.js & TypeScript</p>
 
 </td>
 
 <td align="center" width="25%">
 
-### 🧠
+<h2>🤖</h2>
 
-<b>Deep Learning</b>
+<h3>Machine Learning</h3>
 
-<br/>
-
-Exploring neural networks
+<p>Learning intelligent systems</p>
 
 </td>
 
 <td align="center" width="25%">
 
-### 📊
+<h2>🧠</h2>
 
-<b>Data Science</b>
+<h3>Deep Learning</h3>
 
-<br/>
-
-Working with data & insights
+<p>Exploring neural networks</p>
 
 </td>
+
 </tr>
 </table>
 
@@ -132,12 +132,276 @@ Working with data & insights
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript&theme=dark" height="70"/>
+
+</div>
+
+<br/>
+
+## 🌐 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" height="70"/>
+
+</div>
+
+<br/>
+
+## 🤖 Machine Learning & Data Science
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="70"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge&logo=python&logoColor=4C72B0&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=020617"/>
+
+</div>
+
+<br/>
+
+## 🧠 Deep Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="70"/>
+
+</div>
+
+<br/>
+
+## 🎨 Design & Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" height="70"/>
+
+</div>
+
+---
+
+# 🎯 What I'm Working On
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<h2>🌐</h2>
+
+<h3>Modern Web</h3>
+
+<p>
+Building clean, responsive and
+interactive web applications
+using modern technologies.
+</p>
+
+</td>
+
+<td width="33%" align="center">
+
+<h2>🤖</h2>
+
+<h3>Machine Learning</h3>
+
+<p>
+Learning data preprocessing,
+ML algorithms, model training
+and evaluation.
+</p>
+
+</td>
+
+<td width="33%" align="center">
+
+<h2>🧠</h2>
+
+<h3>Deep Learning</h3>
+
+<p>
+Exploring neural networks,
+TensorFlow and PyTorch.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📚 Learning Journey
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
+
 <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<p>
+
+<b>Learn → Build → Experiment → Improve → Repeat</b>
+
+</p>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=masud1040&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=masud1040&hide_border=true&background=0f172a&stroke=1e3a8a&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=94a3b8" width="49%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud1040&layout=donut&langs_count=8&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" width="48%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=masud1040&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=Saiful%20Alam%20Masud%20-%20Contribution%20Activity" width="98%"/>
+
+</div>
+
+---
+
+# 💡 Developer Mindset
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<h2>📖</h2>
+
+<h3>Keep Learning</h3>
+
+<p>
+Technology changes every day.
+Keep learning and keep growing.
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>🛠️</h2>
+
+<h3>Keep Building</h3>
+
+<p>
+Build real projects.
+Turn ideas into working products.
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>🚀</h2>
+
+<h3>Keep Improving</h3>
+
+<p>
+Learn from every project
+and become better every day.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://masud.ami.bd">
+
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8"/>
+
+</a>
+
+<a href="https://github.com/masud1040">
+
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+</a>
+
+<a href="https://linkedin.com/in/saiful-alam-masud-789a3b23a">
+
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+
+</a>
+
+<a href="mailto:saifulalammasud8@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h2>🚀 Always Learning & Building</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Learning+Machine+Learning;Exploring+Deep+Learning;Improving+Problem+Solving;Turning+Ideas+Into+Projects"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38bdf8,50:1e3a8a,100:020617&section=footer"/>
+
+</div>
 </div>
 
 ---
